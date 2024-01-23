@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e35505f6-4f9f-4998-b2d9-f9352b7c3620" name="Changes" comment="개발 팀장 '김철수'의 첫번째 커밋입니다.">
+    <list default="true" id="e35505f6-4f9f-4998-b2d9-f9352b7c3620" name="Changes" comment="클론 후에 신규 파일이 추가되었습니다.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch01/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch02/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/Welcome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2bKt4Ky7hvpAk2WWcZsWBHuJVAv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -34,18 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/githubtest/soo/soo/src/Main.java",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/githubtest/soo/soo/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch02" />
       <recent name="ch01" />
     </key>
   </component>
@@ -66,7 +67,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705977642016</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="클론 후에 신규 파일이 추가되었습니다.">
+      <option name="closed" value="true" />
+      <created>1705979275049</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705979275049</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,7 +91,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="개발 팀장 '김철수'의 첫번째 커밋입니다." />
-    <option name="LAST_COMMIT_MESSAGE" value="개발 팀장 '김철수'의 첫번째 커밋입니다." />
+    <MESSAGE value="클론 후에 신규 파일이 추가되었습니다." />
+    <option name="LAST_COMMIT_MESSAGE" value="클론 후에 신규 파일이 추가되었습니다." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
