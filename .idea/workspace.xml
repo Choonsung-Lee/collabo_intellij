@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e35505f6-4f9f-4998-b2d9-f9352b7c3620" name="Changes" comment="클론 후에 신규 파일이 추가되었습니다.">
+    <list default="true" id="e35505f6-4f9f-4998-b2d9-f9352b7c3620" name="Changes" comment="Pull 하지 않은 데이터를 Push하려고 시도합니다.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ch02/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/Welcome.java" afterDir="false" />
     </list>
@@ -75,7 +75,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705979275049</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pull 하지 않은 데이터를 Push하려고 시도합니다.">
+      <option name="closed" value="true" />
+      <created>1705981808495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705981808495</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,7 +100,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="개발 팀장 '김철수'의 첫번째 커밋입니다." />
     <MESSAGE value="클론 후에 신규 파일이 추가되었습니다." />
-    <option name="LAST_COMMIT_MESSAGE" value="클론 후에 신규 파일이 추가되었습니다." />
+    <MESSAGE value="Pull 하지 않은 데이터를 Push하려고 시도합니다." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pull 하지 않은 데이터를 Push하려고 시도합니다." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
